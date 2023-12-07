@@ -1,0 +1,44 @@
+nav{
+    display: flex;
+    justify-content: flex-start;
+    background-color: #241F21;
+    color: white;
+    height: 10vh;
+    align-items: center;
+}
+
+a{
+    color: inherit!important;
+    margin: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red!important;
+    text-decoration: none;
+}
+
+#icon{
+    justify-self: start;
+}
+
+body{
+    margin: 0px;
+}
+#logo{
+    height: 10vh;
+    width: 20vh;
+}
+
+img{
+    height: 5vh;
+    width: 10vh;
+}
+
+#SocialMediaIcons{
+    margin-left: auto;
+}
+
+table{
+    background-color: blue;
+}
