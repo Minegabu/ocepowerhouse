@@ -3,7 +3,7 @@ import './styles.css'
 
 export default function Home() {
     return (
-        <div id="centerstuff">  
+        <div id="centerstuffmumbai">  
             <h1> Mumbai Monkeys:</h1>
             <table>
                 <tbody>
