@@ -1,44 +1,22 @@
-nav{
+#Mumbai{
+    margin-right: 10vh;
+}
+
+
+div{
     display: flex;
-    justify-content: flex-start;
-    background-color: #241F21;
-    color: white;
-    height: 10vh;
     align-items: center;
+    justify-content: space-evenly;
 }
 
-a{
-    color: inherit!important;
-    margin: 10px;
-    text-decoration: none;
+#Mumbai{
+    color: white!important;
+    font-size: 3vh;
+    font-weight: bold;
 }
 
-a:hover{
-    color: red!important;
-    text-decoration: none;
-}
-
-#icon{
-    justify-self: start;
-}
-
-body{
-    margin: 0px;
-}
-#logo{
-    height: 10vh;
-    width: 20vh;
-}
-
-img{
-    height: 5vh;
-    width: 10vh;
-}
-
-#SocialMediaIcons{
-    margin-left: auto;
-}
-
-table{
-    background-color: blue;
+#Shroud{
+    color: white!important;
+    font-size: 3vh;
+    font-weight: bold;
 }
