@@ -88,3 +88,8 @@ body{
     justify-content: center;
     flex-direction: row;
 }
+
+#Mumbai{
+    border: 4px solid white;
+
+}

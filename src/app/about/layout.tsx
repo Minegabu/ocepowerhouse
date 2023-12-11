@@ -21,7 +21,7 @@ export default function RootLayout({
             <body className={inter.className}>
                 <div>
                 <a href='/about/mumbai' id="Mumbai">Mumbai Monkeys</a>
-                <a href='/about/filler' id="Shroud">Filler</a>
+                <a href='/about/filler' id="Filler">Filler</a>
                 </div>
                 {children}
             </body>

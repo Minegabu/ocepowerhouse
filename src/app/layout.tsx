@@ -26,8 +26,8 @@ export default function RootLayout({
                 <a href='/match'>Match History</a>
                 <a href='/chad'>UwuKnives Rap Career</a>
                 <div id="SocialMediaIcons">
-                        <a id="Discord" href='https://discord.gg/v7hJ7ksRwY'><Image alt="discordIcon" src="/icons8-discord.svg" width={50} height={50}></Image></a>
-                        <a id="Twitter1s"  href='https://twitter.com/OCEPowerhouseOW'><Image alt="twitterIcon" src="/icons8-twitter (1).svg" width={50} height={50}></Image></a>
+                    <a id="Discord" href='https://discord.gg/v7hJ7ksRwY'><Image alt="discordIcon" src="/icons8-discord.svg" width={50} height={50}></Image></a>
+                    <a id="Twitter1s"  href='https://twitter.com/OCEPowerhouseOW'><Image alt="twitterIcon" src="/icons8-twitter (1).svg" width={50} height={50}></Image></a>
                 </div>
             </nav> 
                 {children}
