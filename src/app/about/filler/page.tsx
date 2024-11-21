@@ -3,7 +3,6 @@ import Image from 'next/image'
 import './styles.css'
 import { useEffect } from 'react';
 import data from './filler.json'
-import Head from 'next/head'
 export default function Home() {
     useEffect(() => {
         const activePage = document.getElementById("Filler");

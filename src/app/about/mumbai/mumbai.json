@@ -1,7 +1,6 @@
 {
     "users": [
         {
-            "index": "1",
             "id": "player1",
             "name1": "Knivies",
             "icon": "/tank_icon.svg",
@@ -10,7 +9,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "2",
 
             "id": "player2",
             "name1": "Minegabu",
@@ -20,8 +18,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "3",
-
             "id": "player3",
             "name1": "Xeven",
             "icon": "/Damage_icon.svg",
@@ -30,8 +26,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "4",
-
             "id": "player4",
             "name1": "Vortx",
             "icon": "/Damage_icon.svg",
@@ -40,8 +34,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "5",
-
             "id": "player5",
             "name1": "Ackker",
             "icon": "/Support_icon.svg",
@@ -50,7 +42,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "6",
 
             "id": "player6",
             "name1": "Xxanng",
@@ -60,8 +51,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "7",
-
             "id": "player7",
             "name1": "Oceki",
             "icon": "/brain-svgrepo-com.svg",
@@ -70,7 +59,6 @@
             "twitch": "https://discord.gg/v7hJ7ksRwY"
         },
         {
-            "index": "8",
             "id": "player8",
             "name1": ".Queenie",
             "icon": "/notepad-icon.svg",
